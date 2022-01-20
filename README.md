@@ -9,4 +9,5 @@ This script allows you to check if your password has been hacked using the most 
 <h2>Why it's safe?</h2><br>
 1) Your password is encrypted by SHA1 algorithm<br>
 2) The sciprt never imports your password fully to the third-party API, just a tiny bit of it<br>
-3) The password is not been stored anywhere except the RAM of your computer throughout the script execution and the original txt file (which you should obviously delete right after you've finished)
+3) The password is not been stored anywhere except the RAM of your computer throughout the script execution and the original txt file (which you should obviously delete right after you've finished)<br>
+4) The script works only in the original file and cannot be imported into other files
